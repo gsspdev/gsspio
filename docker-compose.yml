@@ -1,0 +1,9 @@
+services:
+ web:
+   image: nginx:alpine
+   volumes:
+     - type: bind
+       source: /run/host-services/ssh-auth.sock
+       target: /run/host-services/ssh-auth.sock
+   environment:
+     - SSH_AUTH_SOCK=/run/host-services/ssh-auth.sock
