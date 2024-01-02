@@ -1,0 +1,14 @@
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/uuid-cb6972f20dd3abb5.rmeta: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/builder.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/error.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/parser.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/fmt.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/timestamp.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/v4.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/rng.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/external.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/macros.rs
+
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/uuid-cb6972f20dd3abb5.d: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/builder.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/error.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/parser.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/fmt.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/timestamp.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/v4.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/rng.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/external.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/macros.rs
+
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/lib.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/builder.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/error.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/parser.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/fmt.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/timestamp.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/v4.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/rng.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/external.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.5.0/src/macros.rs:

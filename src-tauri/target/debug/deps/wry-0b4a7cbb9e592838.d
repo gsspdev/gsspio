@@ -1,0 +1,11 @@
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/wry-0b4a7cbb9e592838.rmeta: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/application.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/web_context.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/download.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/file_drop.rs
+
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/wry-0b4a7cbb9e592838.d: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/application.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/web_context.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/download.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/file_drop.rs
+
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/lib.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/application.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/mod.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/web_context.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/mod.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/download.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wry-0.24.4/src/webview/wkwebview/file_drop.rs:

@@ -1,0 +1,11 @@
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/getrandom-7a07411a54d32eaf.rmeta: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error_impls.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util_libc.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/use_file.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/macos.rs
+
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/getrandom-7a07411a54d32eaf.d: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error_impls.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util_libc.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/use_file.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/macos.rs
+
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/lib.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/error_impls.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/util_libc.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/use_file.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.11/src/macos.rs:

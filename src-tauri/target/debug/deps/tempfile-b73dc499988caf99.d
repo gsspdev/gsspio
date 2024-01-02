@@ -1,0 +1,12 @@
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/tempfile-b73dc499988caf99.rmeta: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/Users/gssp/development/rust_projects/gsspio/src-tauri/target/debug/deps/tempfile-b73dc499988caf99.d: /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs:
+/Users/gssp/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs:
